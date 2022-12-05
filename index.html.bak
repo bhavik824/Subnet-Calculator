@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- Created By Codecary -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Login Form</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+  <div class="container">
+    <h1>Login Form</h1>
+    <form method="POST" action="#" name="f1">
+      <div class="form-control">
+        <input type="text" name="t1"required>
+        <label>Email</label>
+      </div>
+      <div class="form-control">
+        <input type="password" name="t2" required>
+        <label>Password</label>
+      </div>
+	  <input type="submit" class="btn" value="Login" name="b">
+     <!-- <button class="btn">Login</button> -->
+      <p class="text">Don't have an account? <a href="#">Register</a></p>
+    </form>
+  </div>
+
+  <script src="js.js"></script>
+  
+  <?php
+  if(isset($_POST[
+  
+  ?>
+</body>
+</html>

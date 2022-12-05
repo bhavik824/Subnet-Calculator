@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<link href="imlogo.ico" rel="shortcut icon" type="image/x-icon" />
+		<title> TEAM SUBNET </title>
+		<link rel="stylesheet" href="style1.css">
+	</head>
+	<body>
+<ul>
+<li><a href="defination.html">About Subnet </a></li>
+	<li> <a href="networking.html">Terms Defination</a></li>
+	<li>  <a href="coding.html"> Calculator</a></li>
+</ul>
+			
+	<b><u><i><h1> <center>SUBNETTING <img src="imlogo.png" height="100px" width="110px"></h1></i></u></b></center>
+	<form method="get" action="#">
+<p align = "justify">
+	
+	<h4>
+	<li>Subnetting is a process of dividing a single network into multiple smaller networks.</li>
+	<li>Subnetting helps in minimizing the wastage of IP addresses.</li>
+	<li>In more simple words we can say that subnetting is a logical subdivision of an IP network. </li>
+	<li>The practice of dividing a network into two or more networks is called as subnetting.</li>
+	<li>There comes a time when the network becomes too large to manage and performance numbers hit an all-time low as a result of too much 
+traffic. </li>
+<li>One of the most effective techniques to solve this network congestion problem is to break the TCP/IP network into smaller, 
+more manageable pieces. </li>
+<li>The practice of dividing the network is called subnetting, and a tool that can identify these different divisions
+ is called a subnetting calculator.</li>
+ <li>Need for a IPv4 subnet calculator. </li>
+ <li>Every subnet has an address to represent it and these subnets are interconnected via router. </li>
+ <li>The router needs network address and subnet mask to find out whether the incoming IP packet has to be routed to any of its subnetwork. </li>
+ <li>Performing network calculations can be hard at times when you have to consider different parameters as to how many subnets should I have and how many hosts should be in a subnetwork.</li>
+ <li>The subnet calculator is a handy tool for finding the number of possible subnets for any given network address block.</li>
+<li> You can choose the combination of subnets and number of hosts per subnet that suits your network and get the host address range and broadcast address for any
+ given subnet mask.</li>
+<li> Partitioning a large network and allocating IP address ranges to different teams is a task that can be calculated mentally, </li>
+ <li>but it's better to have an option like an IP range calculator or subnet mask calculator to double check your subnet 
+ calculations before configuring them in the router.</li></h4>
+ </p>
+<CENTER> <img src="DIAGRAM.png" > </CENTER>
+
+
+  
+ </body>
+ </html>
+ 
+

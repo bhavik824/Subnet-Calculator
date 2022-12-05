@@ -1,0 +1,87 @@
+<html>
+	<head>
+		<link href="imlogo.ico" rel="shortcut icon" type="image/x-icon" />
+		<title> TEAM SUBNET </title>
+	</head><body>
+	<link rel="stylesheet" href="style1.css">
+	<ul>
+<li><a href="defination.html">About Subnet </a></li>
+	<li> <a href="networking.html">Terms Defination</a></li>
+	<li>  <a href="coding.html"> Calculator</a></li>
+</ul>
+	
+	<form method="get" action="#">
+
+	<center><u><i><b><h1><img src="imlogo.png" height="100px" width="110px">PROJECTIONS</p></h1></b></i></U></center>
+	
+	<B><h3>IP ADDRESS:-</h3> </B><p align = "justify">An IP address is a unique address that identifies a device on the internet or a
+	local network. IP stands for "Internet Protocol," which is the set of rules governing the format of data sent via the internet or
+	local network.</p><hr><hr>
+	<B><h3>NUMBER OF HOST:- </h3></B><p align = "justify">A host is any hardware device that has the capability of permitting access to a network via a 
+	user interface, specialized software, network address, protocol stack, or any other means. Some examples include, but are not 
+	limited to, computers, personal electronic devices, thin clients, and multi-functional devices.</p><hr><hr>
+	<B><h3>NUMBER OF SUBNET:- </h3></B><p align = "justify">A subnet number is a specific part of a subnet address in an IP address that identifies one 
+	among several
+	subnets as the recipient or originator of a data packet.
+	The subnet number helps browsers to accurately use the Internet to deliver messages to specific parts of a party's full network.</p>
+	<hr><hr>
+	<B><h3>SUBNET MASK:- </h3></B><p align = "justify">A subnet mask is a number that defines a rane of IP addresses availablre within a network. A single
+	subnet mask
+	limits the number of valid IP's for a specific
+	network. A subnet mask hides (or masks) the network part of a system's IP address and leaves only the host part as the machine
+	identifier.</p><hr><hr>
+	<b><h3>CIDR:- </h3></B><p align = "justify">CIDR (Classless Inter-Domain Routing) -- also known as supernetting -- is a method of assigning Internet
+	Protocol 
+	(IP) addresses
+	that improves the efficiency of address distribution and replaces the previous system based on Class A, Class B and Class C 
+	networK.</p><hr><hr>
+	<B><h3>NETWORK ADDRESS:-</h3> </B><p align = "justify">A network address is an identifier for a node or host on a telecommunications network. 
+	Network addresses 
+	are designed to be unique identifiers 
+	across the network, although some networks allow for local, private addresses, or locally administered addresses that may not be
+	unique.</p><hr><hr>
+	<B><h3>BROADCAST ADDRESS:-</h3> </B><p align = "justify">An address that enables transmission to every node in a local network. The address is the 
+	highest numeric
+	value of the address format being used. An Ethernet broadcast address is all binary 1's.
+	An IP broadcast address is the highest number in its class. </p><hr><hr>
+	<B><h3>NETWORK CLASS:- </h3></B><p align = "justify">The first step in planning for IP addressing on your network is to determine which network class
+	is appropriate
+	for your network. Each class uses the 32-bit IP address space differently, 
+	providing more or fewer bits for the network part of the address.These classes are class A, class B, and class C.</p><hr><hr>
+	<B><h3>IMPORTANT BLOCK:- </h3></B><p align = "justify">A block is a contiguous set of bits or bytes that forms an identifiable unit of data. The term
+	is used in 
+	database management, word processing, and network communication.
+	It is a multiple of an operating system block, which is the smallest amount of data that can be retrieved from storage or memory.
+	</p><hr><hr>
+	<B><h3>RANGE:-</h3> </b><p align = "justify">In computer programming, range refers to possible variable values or the interval that includes the upper
+	and lower 
+	bounds of an array. In statistics, range refers to the 
+	interval between points of data. A statistic's strength and meaning correlate with the sample size, whether the range is short 
+	or long.</p><hr><hr>
+	<B><h3>IP BINARY:-</h3> </B><p align = "justify">A network is a collection of devices linked together so that they may share data. Computers use the
+	Binary number 
+	to store digital data. However, the computer uses a different number system called Binary. Binary is a Base 2 system and uses only 
+	the digits 1 and 0.</p><hr><hr>
+	<B><h3>MASK BINARY:-</h3> </B><p align = "justify">A subnet binary mask, like an IP address, is 32 bits in length.Subnet masks are composed of some 
+	number of 1 bits 
+	followed by enough 0 bits to form a 32-bit value. The bit positions with a 1 correspond with the bit positions in the IP address that
+	are part of the network ID.</p><hr><hr>
+	<B><h3>NETWORK ADDRESS BINARY:-</h3> </B><p align = "justify">
+A network is a collection of devices linked together so that they may share data. Computers use the Binary number to store digital data.
+ Binary is a Base 2 system and uses only the digits 1 and 0. We call these binary digits Bits.</p><hr><hr>
+	<B><h3>BROADCAST ADDRESS BINARY:- </h3></b><p align = "justify">An address that enables transmission to every node in a local network. The address 
+	is the highest 
+	numeric value of the address format being used. An Ethernet broadcast address is all binary 1's. An IP broadcast address is the 
+	highest number in its class; for example, the broadcast address of a Class C 192.168.16.0 network is 192.168.16.255.</p><hr><hr>
+	<B><h3>MAX NUMBER OF SUBNET:- </h3></B><p align = "justify">Maximum number of subnets = 2^6-2 =62. Note that 2 is subtracted from 2^6. The RFC 950 
+	specification 
+	reserves the subnet values consisting of all zeros (see above) and all ones (broadcast), reducing the number of available subnets 
+	by two. Maximum number of hosts is 2^10-2 = 1022.</p><hr><hr>
+	<B><h3>MAX NUMBER OF HOST:- </h3></B><p align = "justify">Maximum number of hosts is 2^10-2 = 1022. 2 is subtracted for Number of hosts is also. The 
+	address with all bits
+	as 1 is reserved as broadcast address and address with all host id bits as 0 is used as network address of subnet.</p><hr><Hr>
+	
+	
+	</body>
+</html>
+	
